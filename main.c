@@ -11,5 +11,6 @@ int fun(int n)
 int main() 
 {
     printf("anser is %d",fun(4));
+    printf("hjghjkhkkh\n");
 }
 
